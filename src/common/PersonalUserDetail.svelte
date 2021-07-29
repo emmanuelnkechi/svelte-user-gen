@@ -16,7 +16,7 @@
 
   <div class="personal-info-profile-prof">
     <div class="circular-img-prof">
-      <img class="img-prof" alt="" />
+      <img src={details[0].img} class="img-prof" alt="" />
     </div>
     <div class="personal-text-prof">
       <h3 class="name-prof">
